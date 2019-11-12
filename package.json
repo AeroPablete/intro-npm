@@ -1,0 +1,22 @@
+{
+    "name": "intro-npm",
+    "version": "1.0.0",
+    "description": "Modulo introduccion a NPM",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AeroPablete/intro-npm.git"
+    },
+    "keywords": [
+        "npm"
+    ],
+    "author": "Pablo Oñate Villaverde <pablo.onate.villaverde@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/AeroPablete/intro-npm/issues"
+    },
+    "homepage": "https://github.com/AeroPablete/intro-npm#readme"
+}
